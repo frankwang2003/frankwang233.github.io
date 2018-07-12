@@ -1,0 +1,24 @@
+body{background:rgb(147,181,207);
+color: green;
+font-style: italic;}
+h3 {background-color: cyan;
+font-size: 100px;
+color:yellow;}
+h3:hover{background-color:blue;}
+li:hover{background-color: pink;}
+li{font-size: 35px;}
+h1:hover{background-color: cyan;}
+img{
+	display: block;
+	margin: auto;
+	width: 400px;
+}
+video{display: block;
+margin: auto;}
+h4 {display: block;
+	margin: auto;
+text-align: center;}
+ol{text-indent: 2px;}
+a{display: block;
+margin: auto;
+font-size: 40px}
